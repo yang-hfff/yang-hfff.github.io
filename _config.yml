@@ -1,9 +1,4 @@
-# Setup
-title:        个人网站
-tagline:      非宁静无以致远，非淡泊无以明志
+title: 个人网站
+tagline: 非宁静无以致远，非淡泊无以明志
 theme: jekyll-theme-cayman
 
-# About/contact
-author:
-  name:       阳海峰
-  url:        http://bilibili.com 
