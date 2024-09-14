@@ -2,15 +2,21 @@
 
 [在线CRC校验](https://www.ip33.com/crc.html)
 
-[微软资源网站](msdn.itellyou.cn)
+[微软资源网站](https://msdn.itellyou.cn)
 
 [KEIL芯片包网站](https://www.keil.arm.com/packs)
 
 [树莓派实验室](https://shumeipai.nxez.com)
 
-[线性代数开源库](https://eigen.tuxfamily.org/)
+[线性代数开源库](https://eigen.tuxfamily.org)
 
 [熊猫简历制作](https://online.tukuppt.com)
+
+[谷歌学术网址更新](http://xs.3822808.com)
+
+[百度学术](https://xueshu.baidu.com)
+
+[SCIHUB网址更新](https://tool.yovisun.com/scihub)
 
 > 个人作品链接
 
