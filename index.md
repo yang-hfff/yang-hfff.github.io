@@ -18,6 +18,8 @@
 
 [SCIHUB网址更新](https://tool.yovisun.com/scihub)
 
+[乐鑫flashdownloadtools](https://www.espressif.com.cn/zh-hans/tools-type/flash-download-tools)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
