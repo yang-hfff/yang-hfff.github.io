@@ -22,6 +22,8 @@
 
 [ip138工具](https://www.ip138.com)
 
+[乐鑫esp系列SDK开发入门](https://docs.espressif.com/projects/esp8266-rtos-sdk)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
