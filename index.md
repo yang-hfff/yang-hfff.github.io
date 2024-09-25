@@ -26,6 +26,8 @@
 
 [网站测速工具](https://mping.chinaz.com)
 
+[录屏转GIF工具](https://www.cockos.com/licecap)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
