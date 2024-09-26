@@ -30,6 +30,8 @@
 
 [SVG图片知识](https://www.runoob.com/svg)
 
+[win32API](https://learn.microsoft.com/en-us/windows/win32/api)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
