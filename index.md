@@ -32,6 +32,8 @@
 
 [win32API](https://learn.microsoft.com/en-us/windows/win32/api)
 
+[HDLBits](https://hdlbits.01xz.net)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
