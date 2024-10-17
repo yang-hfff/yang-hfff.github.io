@@ -34,6 +34,8 @@
 
 [HDLBits](https://hdlbits.01xz.net)
 
+[EXIF信息查看器](https://exif.tuchong.com)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
