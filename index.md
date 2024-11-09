@@ -38,6 +38,8 @@
 
 [LZO real-time data compression library](http://www.oberhumer.com/opensource/lzo)
 
+[libpng Home Page](http://www.libpng.org/pub/png/libpng.html)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
