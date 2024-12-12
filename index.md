@@ -32,15 +32,17 @@
 
 [win32API](https://learn.microsoft.com/en-us/windows/win32/api)
 
-[HDLBits](https://hdlbits.01xz.net)
-
 [EXIF信息查看器](https://exif.tuchong.com)
 
 [LZO real-time data compression library](http://www.oberhumer.com/opensource/lzo)
 
 [libpng Home Page](http://www.libpng.org/pub/png/libpng.html)
 
-[fpga4fun](www.fpga4fun.com)
+[HDLBits](https://hdlbits.01xz.net)
+
+[fpga4fun](https://www.fpga4fun.com)
+
+[opencores](https://opencores.org)
 
 > 个人作品链接
 
