@@ -44,7 +44,7 @@
 
 [opencores](https://opencores.org)
 
-[chipverify](www.chipverify.com/tutorials/verilog)
+[chipverify](https://www.chipverify.com/tutorials/verilog)
 
 > 个人作品链接
 
