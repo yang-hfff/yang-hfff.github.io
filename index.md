@@ -44,6 +44,8 @@
 
 [opencores](https://opencores.org)
 
+[chipverify](www.chipverify.com/tutorials/verilog)
+
 > 个人作品链接
 
 [个人GitHub主页](https://github.com/yang-hfff)
