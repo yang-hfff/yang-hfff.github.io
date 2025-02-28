@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html,body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+main{
+    width: 100%;
+    background: #fff;
+    flex: 1;
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.pink {
+    color: deeppink;
+    font-size: 36px;
+}
